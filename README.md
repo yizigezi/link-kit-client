@@ -1,10 +1,10 @@
-# Message-client
+# Link-Kit-client
 
 #### 介绍
 聊天软件客户端.MIT
 
 #### 软件架构
-软件架构说明
+CS结构
 
 
 #### 安装方式
